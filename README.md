@@ -68,7 +68,7 @@ Esse projeto me ajudou muito no entendimento e desenvolvimento de APIs REST. Vou
   **Vinicius Sousa**  
   *Desenvolvedor & Especialista em Automações*
   
-  [![GitHub](https://img.shields.io/badge/GitHub-ViniAdss-black?style=flat-square&logo=github)](https://github.com/ViniAdss)
+  [![GitHub](https://img.shields.io/badge/GitHub-vinidevai-black?style=flat-square&logo=github)](https://github.com/vinidevai)
   [![Email](https://img.shields.io/badge/Email-adsvinisousa@gmail.com-red?style=flat-square&logo=gmail)](mailto:adsvinisousa@gmail.com)
   
   💼 **ViniDevs**
